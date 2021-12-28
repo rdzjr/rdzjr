@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rdzjr
-- 👀 I’m interested in webpage development
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m @rdzjr.
+- 👀 I’m interested in webpage development.
+- 🌱 I’m currently learning Javascript and Kotlin.
 - 💞️ I’m looking to collaborate on webpage projects.
 
 <!---
